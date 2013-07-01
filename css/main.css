@@ -1,0 +1,39 @@
+div#message-console ul li{
+    list-style-type: none;
+}
+
+div#message-console {
+    margin: 50px auto;
+    width: 1000px;
+}
+
+div#message-console-controls {
+    margin-bottom: 15px;
+}
+
+div#message-console-folders ul li a{
+    /*background-color: #0088CC;
+    color: white;*/
+}
+
+div#message-console-folders ul li i{
+    margin-right: 10px;
+}
+
+/*div#message-console-messages {
+    background-color: #E8E8E8;
+    padding:10px;
+}*/
+
+div.message-preview {
+    border-bottom: 1px solid #CCCACA;
+    padding-top: 10px;
+}
+
+div#top-bar div#logout {
+    margin-top: 10px;
+}
+
+div#top-bar div#logout a {
+    color: white;
+}
